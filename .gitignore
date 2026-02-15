@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# env secrets
+backend/.env
+
+# uploads (temporary files)
+backend/uploads/
+
+# logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
